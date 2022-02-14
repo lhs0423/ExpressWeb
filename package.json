@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lhs0423/ExpressWeb/issues"
   },
-  "homepage": "https://github.com/lhs0423/ExpressWeb#readme"
+  "homepage": "https://github.com/lhs0423/ExpressWeb#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
